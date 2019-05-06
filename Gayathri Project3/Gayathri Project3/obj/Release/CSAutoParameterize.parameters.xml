@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Cosmeticsconnectionstring-Web.config Connection String" description="Cosmeticsconnectionstring Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:sqin.database.windows.net,1433;Initial Catalog=SQIN;Persist Security Info=False;User ID=sqin;Password=Comnet@2019;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Gayathri\ Project3\\Gayathri\ Project3\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Cosmeticsconnectionstring']/@connectionString" />
+  </parameter>
+</parameters>
